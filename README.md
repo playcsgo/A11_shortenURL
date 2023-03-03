@@ -26,20 +26,21 @@ AC 2-3後端_A11作業_縮網址
 ----
 1.使用終端機於套件覆蓋路徑, ，Clone 此專案, 
 
-    $ git clone (git網址)
+    $ git clone https://github.com/playcsgo/A11_shortenURL.git
     
 2.安裝套件
-
-    $ npm -i express express-handlebars method-override mongoose dotenv
+    前往專案檔案根目錄
+    $ npm i express express-handlebars method-override mongoose dotenv
     
-3.創建.env檔案 
+3.於專案根目錄下創建.env檔案 
 
     將mongoDB的連線字串複製上來
     MONGODB_URI = 連線字串
     
 4.啟動
     
-    於專案檔案根目錄下
+    前往專案檔案根目錄
+    
     使用者模式:
     $ npm run start  
     開發模式:
