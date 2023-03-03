@@ -4,9 +4,9 @@ AC 2-3後端_A11作業_縮網址
 
 專案畫面
 ---
-![image](https://playcsgo.github.io/A11_shortenURL/public/picture/1.png)
+![image](https://playcsgo.github.io/A11_shortenURL/public/pictures/1.png)
 -------
-![image](https://playcsgo.github.io/A11_shortenURL/public/picture/2.png)
+![image](https://playcsgo.github.io/A11_shortenURL/public/pictures/2.png)
 -------
 產品功能
 -----
