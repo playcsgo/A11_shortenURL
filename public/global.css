@@ -1,0 +1,30 @@
+.container {
+  margin: 100px auto;
+  max-width: 960px;
+}
+
+h1 {
+  margin: 20px auto;
+}
+
+.img-1 {
+  width: 15vw;
+  height: 15vw;
+  max-width: 100%;
+}
+
+.input-form {
+  width:100%;
+  display: block;
+}
+
+.input-bar {
+  width:50vw;
+  display: block;
+}
+
+.button-shorten {
+  width: 100px;
+  height: 40px;
+  margin: 0 auto;
+}

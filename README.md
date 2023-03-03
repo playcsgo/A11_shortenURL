@@ -1,0 +1,50 @@
+短網址處理網頁
+====
+AC 2-3後端 A11作業  縮網址
+
+專案畫面
+---
+![image](/public/pictures/1.png)
+-------
+![image]()
+-------
+產品功能
+-----
+- 將網址轉換為長度一致的新網址
+- 轉換後可直接連結 或是 複製新網址
+
+使用套件
+-----
+- express: 4.18.2
+- express-handlebars: 7.0.1
+- method-override: 3.0.0
+- mongoose": "^7.0.0
+- dotenv: 16.0.3
+
+
+安裝方式
+----
+1.使用終端機於套件覆蓋路徑, ，Clone 此專案, 
+
+    $ git clone (git網址)
+    
+2.安裝套件
+
+    $ npm -i express express-handlebars method-override mongoose dotenv
+    
+3.創建.env檔案 
+
+    將mongoDB的連線字串複製上來
+    MONGODB_URI = 連線字串
+    
+4.啟動
+    
+    於專案檔案根目錄下
+    使用者模式:
+    $ npm run start  
+    開發模式:
+    $ npm run dev
+    
+    出現以下訊息表示成功開啟
+    express is runing on http://localhost3000
+    mongoDB connected!!
